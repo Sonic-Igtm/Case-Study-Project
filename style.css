@@ -1,0 +1,36 @@
+.text_images_and_result_bob{
+    background-color: white;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+}
+
+.text_images_and_result_bob img{
+width:150;
+height: 200px;
+border-radius: 10px;
+}
+
+b{
+color: purple;   
+}
+
+.text_images_and_result_bob h4{
+text-align: center ;
+}
+
+.mini_result{
+    background-color: lightgrey;
+    box-shadow: 5px 5px 15px white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.copy_right_footer{
+text-align: center;
+font-family: 'Special Elite', cursive;
+bottom: 0;
+position: fixed;
+width: 100%;
+}
